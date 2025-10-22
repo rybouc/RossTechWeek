@@ -153,4 +153,3 @@ If a simple line chart appears, you’re ready to go!
 
 ---
 
-Would you like me to make a **printable PDF version** of this guide (with logos and cleaner formatting) for your workshop handout?
