@@ -8,5 +8,9 @@
 ## Data Visualization
 - [Storytelling with Data](https://www.storytellingwithdata.com/)
 
-## Other
+## VS Code
 - [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+- [Quick Start Guide for Data Wrangler in VS Code](https://code.visualstudio.com/docs/datascience/data-wrangler-quick-start)
+
+## Data originally sourced from:
+- [Kaggle: Google Merchandise Sales Data](https://www.kaggle.com/datasets/mexwell/google-merchandise-sales-data)
