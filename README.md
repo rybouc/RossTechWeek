@@ -1,5 +1,7 @@
 # RossTechWeek
-Repository in support of Ross Tech Week 2025. More details will be added prior to the workshop on 11/4. 
+Repository in support of Ross Tech Week 2025. 
+
+Go through the Pre-Workshop Setup Guide. Then, download the csv files in the "data" folder and put them in a new folder on your desktop for use in the workshop.
 
 ---
 
