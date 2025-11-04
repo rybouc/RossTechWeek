@@ -99,14 +99,14 @@ Git allows VS Code to interact with GitHub.
 Open a terminal or the VS Code integrated terminal and run:
 
 ```bash
-pip install numpy pandas matplotlib seaborn jupyter
+pip install ipykernel numpy pandas matplotlib seaborn jupyter
 ```
 
 If you get a “pip not found” error, try:
 
 ```bash
 python -m pip install --upgrade pip
-python -m pip install numpy pandas matplotlib seaborn jupyter
+python -m pip install ipykernel numpy pandas matplotlib seaborn jupyter
 ```
 
 ---
